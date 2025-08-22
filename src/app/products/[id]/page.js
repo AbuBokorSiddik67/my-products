@@ -21,7 +21,6 @@ export default async function ProductDetailsPage({ params }) {
       <div className="text-center mt-8 text-red-600">Product not found!</div>
     );
   }
-
   return (
     <div className="mt-10 pt-20">
       <div className="container mx-auto p-6 bg-white rounded-lg shadow-lg max-w-2xl">
